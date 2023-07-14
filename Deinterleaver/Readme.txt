@@ -1,1 +1,1 @@
-Underdeveloping...can assamble codeword from the channel data
+Under developing...can assemble codeword from the channel data
