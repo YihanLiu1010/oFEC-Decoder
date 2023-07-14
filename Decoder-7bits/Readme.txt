@@ -1,1 +1,1 @@
-A working soft decision decoder, the result can be comparied to the one from Matlab.
+This version has 1+7 bits, 5 soft bits should be enough, this is only for matching the result with Matlab
